@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Basic_Calculator</string>
+    <string-array name="options" >
+        <item>Select Operator</item>
+        <item>+</item>
+        <item>-</item>
+        <item>*</item>
+        <item>/</item>
+        <item>%</item>
+    </string-array>
+</resources>
